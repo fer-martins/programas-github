@@ -9,6 +9,7 @@ if p or (q and r):
 
 
     print ("testeeeee")
+    print ("testeeeee 2")
 
 else:
     print("falso")
