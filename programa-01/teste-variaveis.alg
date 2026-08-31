@@ -4,6 +4,7 @@ idade: inteiro
 nome: caractere
 peso: real
 
+
 inicio
 escreva("Digite seu nome: ")
 leia(nome)
@@ -17,6 +18,9 @@ escreva("Digite seu peso: ")
 leia(peso)
 escreval()
 
-escreva ("Seus dados são: ", nome, " ", idade, " anos e ", peso, " kg.")
+escreval ("Seus dados são:")
+escreval("Nome: ", nome)
+escreval("Idade: ", idade)
+escreval("Peso: ", peso)
 
 fimalgoritmo
